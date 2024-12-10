@@ -1,5 +1,7 @@
 body{
   padding: 5px 25px;
+  background-image:url(hatter.png);
+  
 }
 
 p{
@@ -32,6 +34,7 @@ h1, h2{
 
 a{
   text-decoration: none;
+  
 }
 
 img{
@@ -55,6 +58,7 @@ img{
 #teljes{
   float:right;
   display: block;
+  
   
 }
 
