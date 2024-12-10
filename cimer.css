@@ -16,6 +16,7 @@ ol li{
   -moz-column-count: 3; /* Firefox */
   column-count: 3;
   line-height: 120%;
+  
 }
 
 h1, h2{
@@ -41,7 +42,7 @@ img{
   
 }
 
-#vonalkazas{
+.vonalkazas{
   display: block;
   margin-left: auto;
   margin-right: auto;
