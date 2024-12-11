@@ -17,7 +17,7 @@ ol li{
   -webkit-column-count: 3; /* Chrome, Safari, Opera */
   -moz-column-count: 3; /* Firefox */
   column-count: 3;
-  line-height: 120%;
+  line-height: 200%;
   
 }
 
@@ -34,6 +34,7 @@ h1, h2{
 
 a{
   text-decoration: none;
+ color: #7F7F7F;
   
 }
 
@@ -49,16 +50,20 @@ img{
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin: 15px;
+  margin: auto;
 }
 
 .fk{
   font-weight: bold;
+  
 }
 
-#teljes{
+.teljes{
   float:right;
-  display: block;
+  margin: 10px;
   
-  
+
+  width: 280px;
 }
 
